@@ -21,6 +21,7 @@ git config --global user.name "Your Name"
 5. 다시 git bash에서 
 
 ```bash
+  git init 
   git add "파일 이름"
   git commit -m "comment"
   git remote add origin https://github.com/YoungChanShin/markdown.git
